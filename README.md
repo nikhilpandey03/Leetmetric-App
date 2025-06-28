@@ -9,7 +9,11 @@ Leetmetric‑App is a sleek, interactive web dashboard that lets you track and v
   - Total problems attempted & solved  
   - Acceptance rate  
   - Easy / Medium / Hard breakdown (counts & percentages)    
-- **Responsive UI** – Tailwind CSS ensures the dashboard looks clean and works smoothly on mobile and desktop.  
+- **Responsive UI** – Tailwind CSS ensures the dashboard looks clean and works smoothly on mobile and desktop.
+  
+- ## ⚡ Demo
+
+*(leetmetric-app.netlify.app)*
 
 ## ⚙️ Tech Stack
 
